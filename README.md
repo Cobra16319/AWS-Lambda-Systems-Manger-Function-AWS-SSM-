@@ -1,3 +1,7 @@
+[![CodeQL](https://github.com/Cobra16319/AWS-Lambda-Systems-Manger-Function-AWS-SSM-/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Cobra16319/AWS-Lambda-Systems-Manger-Function-AWS-SSM-/actions/workflows/codeql-analysis.yml)
+
+
+
 ### Lambda-SSM
 
 Lambda Function to run SSM Job
